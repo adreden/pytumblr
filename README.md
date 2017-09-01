@@ -11,6 +11,9 @@ thumbnail.
 
 -- Jabba Laci, 2016 --
 
+*Update (20170901):* it seems the original pytumblr project
+supports Python 3 now. See the 3-year old issue [here](https://github.com/tumblr/pytumblr/issues/51#issuecomment-326471420). 
+
 -------------------------------------------------------
 
 # PyTumblr
